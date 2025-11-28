@@ -2,7 +2,7 @@
 
 A powerful and user-friendly Java application that helps you efficiently track, manage, and analyze your daily expenses in real-time.
 
----
+
 
 ## 🚀 Features
 
@@ -11,12 +11,10 @@ A powerful and user-friendly Java application that helps you efficiently track, 
 - 🧾 **Categorization** – Organize expenses by categories such as food, travel, bills, etc.  
 - 💾 **Persistent Storage** – Ensures your data is stored safely and is easily retrievable   
 
----
+
 
 ## 🛠️ Technologies Used
 
 - **Language**: Java  
 - **Data Storage**: MySQL  
-
----
 
